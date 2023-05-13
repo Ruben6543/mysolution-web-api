@@ -3,6 +3,7 @@ using MySolution.Infraestructure.Infraestructure;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
@@ -53,5 +54,13 @@ namespace MySolution.Infraestructure.Repository
             return await _context.SaveChangesAsync();
         }
 
+        public async Task<TEntity> FindAsync(Expression<Func<TEntity, bool>> filter, params Expression<Func<TEntity, object>>[] includes)
+        {
+            var query = _context.Set<TEntity>().AsQueryable();
+
+            query = includes.Aggregate(query, (current, include) => current.Include(include));
+
+            return await query.FirstOrDefaultAsync(filter);
+        }
     }
 }

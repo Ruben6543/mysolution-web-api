@@ -1,4 +1,5 @@
 ﻿using MySolution.Domain.DataTransferObject;
+using MySolution.Infraestructure.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,12 +10,14 @@ namespace MySolution.Domain.Infraestructure
 {
     public interface IService
     {
-        Task<object> List();
+        Task<ServiceResult> List();
 
-        Task<object> Save(object data);
+        Task<ServiceResult> Get(int id);
 
-        Task<object> Update(object data);
+        Task<ServiceResult> Save(object data);
 
-        Task<object> Delete(Guid id);
+        Task<ServiceResult> Update(object data);
+
+        Task<ServiceResult> Delete(int id);
     }
 }

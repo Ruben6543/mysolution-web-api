@@ -13,7 +13,7 @@ namespace MySolution.Infraestructure
     public class MySolutionDataContext :DbContext
     {
         public DbSet<MusicEntity> Musics { get; set; }
-
+        public MySolutionDataContext(DbContextOptions<MySolutionDataContext> options) : base(options) { }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder

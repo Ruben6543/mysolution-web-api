@@ -1,0 +1,17 @@
+C:\Users\artur\source\repos\Solution.AppWebService\DependencyInjection\bin\Debug\net6.0\MySolution.Domain.DependencyInjection.deps.json
+C:\Users\artur\source\repos\Solution.AppWebService\DependencyInjection\bin\Debug\net6.0\MySolution.Domain.DependencyInjection.dll
+C:\Users\artur\source\repos\Solution.AppWebService\DependencyInjection\bin\Debug\net6.0\MySolution.Domain.DependencyInjection.pdb
+C:\Users\artur\source\repos\Solution.AppWebService\DependencyInjection\bin\Debug\net6.0\MySolution.Domain.dll
+C:\Users\artur\source\repos\Solution.AppWebService\DependencyInjection\bin\Debug\net6.0\MySolution.Infraestructure.dll
+C:\Users\artur\source\repos\Solution.AppWebService\DependencyInjection\bin\Debug\net6.0\MySolution.Domain.pdb
+C:\Users\artur\source\repos\Solution.AppWebService\DependencyInjection\bin\Debug\net6.0\MySolution.Infraestructure.pdb
+C:\Users\artur\source\repos\Solution.AppWebService\DependencyInjection\obj\Debug\net6.0\MySolution.Domain.DependencyInjection.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\Solution.AppWebService\DependencyInjection\obj\Debug\net6.0\MySolution.Domain.DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\source\repos\Solution.AppWebService\DependencyInjection\obj\Debug\net6.0\MySolution.Domain.DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\artur\source\repos\Solution.AppWebService\DependencyInjection\obj\Debug\net6.0\MySolution.Domain.DependencyInjection.AssemblyInfo.cs
+C:\Users\artur\source\repos\Solution.AppWebService\DependencyInjection\obj\Debug\net6.0\MySolution.Domain.DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\Solution.AppWebService\DependencyInjection\obj\Debug\net6.0\MySolution.Domain.DependencyInjection.csproj.CopyComplete
+C:\Users\artur\source\repos\Solution.AppWebService\DependencyInjection\obj\Debug\net6.0\MySolution.Domain.DependencyInjection.dll
+C:\Users\artur\source\repos\Solution.AppWebService\DependencyInjection\obj\Debug\net6.0\refint\MySolution.Domain.DependencyInjection.dll
+C:\Users\artur\source\repos\Solution.AppWebService\DependencyInjection\obj\Debug\net6.0\MySolution.Domain.DependencyInjection.pdb
+C:\Users\artur\source\repos\Solution.AppWebService\DependencyInjection\obj\Debug\net6.0\ref\MySolution.Domain.DependencyInjection.dll

@@ -29,6 +29,12 @@ namespace MySolution.Infraestructure.Configuration
                 .HasMaxLength(50)
                 .IsRequired();
 
+            builder.Property(e => e.IsDeleted)
+                .HasDefaultValue(false);
+
+            builder
+                .HasQueryFilter(h => !h.IsDeleted);
+
             #region default data
 
             builder.HasData(

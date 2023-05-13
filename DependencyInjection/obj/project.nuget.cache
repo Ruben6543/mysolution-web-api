@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Gi4nXqhh5iNojFpQr2NBVoEHu/x3sV91T/5EAP7p1QtpzdBLVbAYqurtzApXP8cdmiePStj4q5vRmL0Y/RYl2A==",
+  "dgSpecHash": "89UHsjZxRpc9Yi/9V2mgt39lXt/yO1uIRiloXtD8og6CnaGteP+QzQlJviZMIm5O1sqFLkV453Et7LPSKtN5mQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\DependencyInjection\\MySolution.Domain.DependencyInjection.csproj",
   "expectedPackageFiles": [
