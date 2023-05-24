@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\DependencyInjection\\MySolution.Domain.DependencyInjection.csproj": {}
+    "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\DependencyInjection\\MySolution.Domain.DependencyInjection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\DependencyInjection\\MySolution.Domain.DependencyInjection.csproj": {
+    "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\DependencyInjection\\MySolution.Domain.DependencyInjection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\DependencyInjection\\MySolution.Domain.DependencyInjection.csproj",
+        "projectUniqueName": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\DependencyInjection\\MySolution.Domain.DependencyInjection.csproj",
         "projectName": "MySolution.Domain.DependencyInjection",
-        "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\DependencyInjection\\MySolution.Domain.DependencyInjection.csproj",
+        "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\DependencyInjection\\MySolution.Domain.DependencyInjection.csproj",
         "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\DependencyInjection\\obj\\",
+        "outputPath": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\DependencyInjection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.Domain\\MySolution.Domain.csproj": {
-                "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.Domain\\MySolution.Domain.csproj"
+              "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.Domain\\MySolution.Domain.csproj": {
+                "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.Domain\\MySolution.Domain.csproj"
               },
-              "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.Infraestructure\\MySolution.Infraestructure.csproj": {
-                "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.Infraestructure\\MySolution.Infraestructure.csproj"
+              "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.Infraestructure\\MySolution.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.Infraestructure\\MySolution.Infraestructure.csproj"
               }
             }
           }
@@ -76,18 +76,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.Domain\\MySolution.Domain.csproj": {
+    "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.Domain\\MySolution.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.Domain\\MySolution.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.Domain\\MySolution.Domain.csproj",
         "projectName": "MySolution.Domain",
-        "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.Domain\\MySolution.Domain.csproj",
+        "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.Domain\\MySolution.Domain.csproj",
         "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.Domain\\obj\\",
+        "outputPath": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -104,8 +104,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.Infraestructure\\MySolution.Infraestructure.csproj": {
-                "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.Infraestructure\\MySolution.Infraestructure.csproj"
+              "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.Infraestructure\\MySolution.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.Infraestructure\\MySolution.Infraestructure.csproj"
               }
             }
           }
@@ -135,18 +135,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.Infraestructure\\MySolution.Infraestructure.csproj": {
+    "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.Infraestructure\\MySolution.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.Infraestructure\\MySolution.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.Infraestructure\\MySolution.Infraestructure.csproj",
         "projectName": "MySolution.Infraestructure",
-        "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.Infraestructure\\MySolution.Infraestructure.csproj",
+        "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.Infraestructure\\MySolution.Infraestructure.csproj",
         "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.Infraestructure\\obj\\",
+        "outputPath": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -204,7 +204,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

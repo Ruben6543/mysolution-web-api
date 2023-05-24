@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\AppWebService.Test\\AppWebService.Test.csproj": {}
+    "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\AppWebService.Test\\AppWebService.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\AppWebService.Test\\AppWebService.Test.csproj": {
+    "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\AppWebService.Test\\AppWebService.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\AppWebService.Test\\AppWebService.Test.csproj",
+        "projectUniqueName": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\AppWebService.Test\\AppWebService.Test.csproj",
         "projectName": "AppWebService.Test",
-        "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\AppWebService.Test\\AppWebService.Test.csproj",
+        "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\AppWebService.Test\\AppWebService.Test.csproj",
         "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\AppWebService.Test\\obj\\",
+        "outputPath": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\AppWebService.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,6 +59,10 @@
             "coverlet.collector": {
               "target": "Package",
               "version": "[3.1.2, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.4.2, )"
             }
           },
           "imports": [
@@ -77,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

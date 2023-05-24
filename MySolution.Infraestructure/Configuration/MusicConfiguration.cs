@@ -20,6 +20,8 @@ namespace MySolution.Infraestructure.Configuration
             builder
                 .HasKey(x => x.Id);
 
+                
+
             builder
                 .Property(e => e.Title)
                 .HasMaxLength(50)
@@ -42,25 +44,25 @@ namespace MySolution.Infraestructure.Configuration
                 {
                     Id = 1,
                     Title = "Do I Wanna Know",
-                    Genre = "Rock"
+                    Genre = "ROCK"
                 },
                 new
                 {
                     Id = 2,
                     Title = "Shape of My Heart",
-                    Genre = "Rock"
+                    Genre = "ROCK"
                 },
                 new
                 {
                     Id = 3,
                     Title = "Still loving you",
-                    Genre = "Rock"
+                    Genre = "ROCK"
                 },
                 new
                 {
                     Id = 4,
                     Title = "Dream on",
-                    Genre = "Rock"
+                    Genre = "ROCK"
                 }
             );
             #endregion

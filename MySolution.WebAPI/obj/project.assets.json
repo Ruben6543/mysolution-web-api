@@ -4013,11 +4013,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.WebAPI\\MySolution.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.WebAPI\\MySolution.WebAPI.csproj",
       "projectName": "MySolution.WebAPI",
-      "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.WebAPI\\MySolution.WebAPI.csproj",
+      "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.WebAPI\\MySolution.WebAPI.csproj",
       "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4028,17 +4028,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\DependencyInjection\\MySolution.Domain.DependencyInjection.csproj": {
-              "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\DependencyInjection\\MySolution.Domain.DependencyInjection.csproj"
+            "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\DependencyInjection\\MySolution.Domain.DependencyInjection.csproj": {
+              "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\DependencyInjection\\MySolution.Domain.DependencyInjection.csproj"
             },
-            "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.Domain\\MySolution.Domain.csproj": {
-              "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.Domain\\MySolution.Domain.csproj"
+            "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.Domain\\MySolution.Domain.csproj": {
+              "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.Domain\\MySolution.Domain.csproj"
             }
           }
         }
@@ -4111,7 +4112,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

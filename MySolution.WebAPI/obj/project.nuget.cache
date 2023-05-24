@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MhjjwiR0FDJL9LIp3OVx99f2JM0yyBaZzZOTfLqUd2qMYmPbLlBtdbr6HZkM8BvhvG/BkMuIpH5u27RuV9skjg==",
+  "dgSpecHash": "z/4lDshwbLIjYl/wl7Px+JbwZ/0BrFbaxGTEHpn4Y86R2Kicnc0iQFIp5sdqgHFdzDTY8Me106fqaUed8PXanw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.WebAPI\\MySolution.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.WebAPI\\MySolution.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\artur\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\artur\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

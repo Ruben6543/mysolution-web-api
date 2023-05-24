@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Spz+/mqVoxLSefPBa9Ec65hN57O4QqDUv12SML4hT0YPk8/b1bzsK5R7qtKRgWvhFyBogV6IwE4DuLKKqGhLw==",
+  "dgSpecHash": "h6iSO0wpe5kiv82rTw3Xz3Iio8cJnTaSVlGTVMP8JkN0rTuJfhT3+0idaw0rUHaato8xYSvPYx92Wd/Dq3NdoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.Domain\\MySolution.Domain.csproj",
+  "projectFilePath": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.Domain\\MySolution.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\artur\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\artur\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -9,7 +9,7 @@ namespace MySolution.Infraestructure.Entities
 {
     public class MusicEntity : BaseEntity
     {
-        public string? Title { get; set; }
-        public string? Genre{ get; set; }
+        public string Title { get; set; }
+        public string Genre{ get; set; }
     }
 }

@@ -3230,11 +3230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.Infraestructure\\MySolution.Infraestructure.csproj",
+      "projectUniqueName": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.Infraestructure\\MySolution.Infraestructure.csproj",
       "projectName": "MySolution.Infraestructure",
-      "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.Infraestructure\\MySolution.Infraestructure.csproj",
+      "projectPath": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.Infraestructure\\MySolution.Infraestructure.csproj",
       "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\artur\\source\\repos\\Solution.AppWebService\\MySolution.Infraestructure\\obj\\",
+      "outputPath": "C:\\Users\\artur\\source\\repos\\Solution.ApiWebService\\MySolution.Infraestructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3292,7 +3292,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

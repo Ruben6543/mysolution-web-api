@@ -42,7 +42,7 @@ namespace MySolution.Domain.Services
             var music = new MusicEntity
             {
                 Title = newMusic.Title,
-                Genre= newMusic.Genre,
+                Genre= newMusic.Genre.ToUpper(),
             };
 
             var musicCreated = await _musicRepository.AddAsync(music);
@@ -65,11 +65,11 @@ namespace MySolution.Domain.Services
             {
                 Id = request.Id,
                 Title = request.Title,
-                Genre = request.Genre,
+                Genre = request.Genre.ToUpper(),
             };
 
             var music = await _musicRepository.FindAsync(h => h.Id == newMusic.Id);
-
+            
             if (music == null)
             {
                 throw new InvalidOperationException("The music doesnt exists");
