@@ -13,7 +13,7 @@ using System.Reflection.Metadata.Ecma335;
 
 namespace MySolution.WebAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/v{version:apiVersion}/[controller]")]
     [ApiController]
     [ApiVersion("1.0")]
     public class MusicsController : ControllerBase
